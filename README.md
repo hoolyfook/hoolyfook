@@ -3,7 +3,7 @@
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hoolyfook)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/lam-le-thanh-5b209015b))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lam-le-thanh-5b209015b)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lamlethanh987@gmail.com)
 
 ---
