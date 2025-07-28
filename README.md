@@ -1,5 +1,5 @@
 <!-- Your title -->
-## 👋 Hi there, I'm Le Thanh Lam
+## 👋 Hi there, I'm Le Thanh Lam aka Hoolyfook
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hoolyfook)
